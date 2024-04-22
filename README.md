@@ -1,3 +1,7 @@
+> [!IMPORTANT] The `main` branch hosts live code with latest changes. It is unstable and is used for
+> development. It is suitable for contribution and inspection of the latest code. The `release-*`
+> branches are stable releases that can be used to build and deploy the system.
+
 > FLEDGE has been renamed to Protected Audience API. To learn more about the name change, see the
 > [blog post](https://privacysandbox.com/intl/en_us/news/protected-audience-api-our-new-name-for-fledge).
 

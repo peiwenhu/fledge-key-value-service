@@ -1,4 +1,5 @@
-> [!IMPORTANT] The `main` branch hosts live code with latest changes. It is unstable and is used for
+> [!IMPORTANT]
+> The `main` branch hosts live code with latest changes. It is unstable and is used for
 > development. It is suitable for contribution and inspection of the latest code. The `release-*`
 > branches are stable releases that can be used to build and deploy the system.
 
